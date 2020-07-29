@@ -1,0 +1,6 @@
+C:\Users\abrep\Desktop\laptop\ONT4101\ONT4101 Assignment 2\ONT4101 Assignment 2\bin\Debug\ONT4101 Assignment 2.exe.config
+C:\Users\abrep\Desktop\laptop\ONT4101\ONT4101 Assignment 2\ONT4101 Assignment 2\bin\Debug\ONT4101 Assignment 2.exe
+C:\Users\abrep\Desktop\laptop\ONT4101\ONT4101 Assignment 2\ONT4101 Assignment 2\bin\Debug\ONT4101 Assignment 2.pdb
+C:\Users\abrep\Desktop\laptop\ONT4101\ONT4101 Assignment 2\ONT4101 Assignment 2\obj\Debug\ONT4101 Assignment 2.csprojAssemblyReference.cache
+C:\Users\abrep\Desktop\laptop\ONT4101\ONT4101 Assignment 2\ONT4101 Assignment 2\obj\Debug\ONT4101 Assignment 2.exe
+C:\Users\abrep\Desktop\laptop\ONT4101\ONT4101 Assignment 2\ONT4101 Assignment 2\obj\Debug\ONT4101 Assignment 2.pdb
